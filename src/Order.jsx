@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import Pizza from "./pizza";
+import Pizza from "./Pizza";
 
 const intl = new Intl.NumberFormat("en-GB", {
   style: "currency",
